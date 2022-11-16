@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/17092761/202081099-55796c8c-ebfb-4084-bc4c-e1bc570d74b6.mp4
+![2022-11-15_22 04 43](https://user-images.githubusercontent.com/17092761/202081192-5258e5c6-5e12-440f-ab6d-9c9c9f66849b.gif)
+
 
 # Getting Started with Create React App
 
